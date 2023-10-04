@@ -4,8 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-## Household Labor Supply Elasticities: Evidence from the 2015 Swiss Franc Appreciation
+## Work in Progress
+### Household Labor Supply Elasticities: Evidence from the 2015 Swiss Franc Appreciation
 (joint work with Sarah Lein, Andreas Peichl, Kurt Schmidheiny, and Peter Zorn)
 
 This paper investigates the labor supply responses of German cross-border commuters following a significant exchange rate shock resulting from the unexpected abandonment of the minimum exchange rate policy by the Swiss National Bank in 2015. With a focus on over 45,000 cross-border workers employed in Switzerland, earning their income in Swiss Francs, and residing in Baden-Wuerttemberg, Germany, we examine the implications of this shock on their labor supply decisions, considering the majority of their income is spent in Euros.
@@ -20,12 +20,10 @@ To bolster the robustness and validity of our findings, we plan to complement ou
 
 Through these methodological enhancements and the utilization of extensive datasets, our research contributes to a comprehensive understanding of the labor supply responses of German cross-border commuters in the wake of a significant exchange rate shock. In addition, by investigating the heterogeneous effects across various dimensions, we shed light on the underlying dynamics. 
 
-## Testing identification in mediation & dynamic treatment models
+### Testing identification in mediation & dynamic treatment models
 (joint work with Martin Huber, and Lukas Laffers)
 
 We propose a method for testing the identification of causal effects in causal mediation and dynamic treatment models when covariates, as well as suspected instruments (which supposedly do not directly affect the outcome), are observed in the data, building on the test by Kueck and Huber (2022) for single treatment models. The models considered in our study are characterized by a sequential assignment of a treatment and a mediator to assess the direct effect of the treatment (net of the mediator), the indirect effect of the treatment (via the mediator), or the joint effect of both the treatment and the mediator. We derive testable conditions that are sufficient for the identification of such effects in observational data. These conditions imply the joint satisfaction of the exogeneity of the treatment and the mediator conditional on covariates, as well as the validity of (at least two) distinct instruments for the treatment and the mediator, meaning that the instruments do not directly affect the outcome (other than through the treatment or mediator) and are unconfounded conditional on the covariates. Our method also applies to sample selection or post-treatment attrition problems in which the mediator is replaced by a selection indicator for the observability of the outcome, in order to jointly test the ignorability of treatment and sample selection.  We propose machine learning-based tests that control for covariates in a data-driven way and analyze their finite sample performance in a simulation study. We also apply our testing approach to empirical data.
 
-## Long-lasting Impact of Diminished Parental Energy: Evidence from Glass Children
+### Long-lasting Impact of Diminished Parental Energy: Evidence from Glass Children
 (joint with Felicia Doll, and Maria Hofbauer Pérez)
-
-work in progress
